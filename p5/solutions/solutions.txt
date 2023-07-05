@@ -1,0 +1,29 @@
+Prvoto
+s1: 94780
+s2: 444810
+s3: 748810
+s4: 50603
+s5: 498762
+
+
+Vtoroto
+s1: 606858
+s2: 171505
+s3: 903634
+s4: 479068
+s5: 536888
+
+
+Tretoto
+model-called
+ChatGPT-which
+interacts-in
+of-the-research
+is-only
+
+Cetvrtoto
+s1: 298544
+s2: 66798
+s3: 199262
+s4: 474578
+s5: 501286
